@@ -1,0 +1,16 @@
+C:\Users\Máté\Desktop\szakdoga\szakdoga\bin\Debug\szakdoga.exe.config
+C:\Users\Máté\Desktop\szakdoga\szakdoga\bin\Debug\szakdoga.exe
+C:\Users\Máté\Desktop\szakdoga\szakdoga\bin\Debug\szakdoga.pdb
+C:\Users\Máté\Desktop\szakdoga\szakdoga\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Máté\Desktop\szakdoga\szakdoga\obj\Debug\szakdoga.csprojAssemblyReference.cache
+C:\Users\Máté\Desktop\szakdoga\szakdoga\obj\Debug\szakdoga.frm_esemeny.resources
+C:\Users\Máté\Desktop\szakdoga\szakdoga\obj\Debug\szakdoga.frm_fomenu.resources
+C:\Users\Máté\Desktop\szakdoga\szakdoga\obj\Debug\szakdoga.frm_regiszracio.resources
+C:\Users\Máté\Desktop\szakdoga\szakdoga\obj\Debug\szakdoga.Properties.Resources.resources
+C:\Users\Máté\Desktop\szakdoga\szakdoga\obj\Debug\szakdoga.csproj.GenerateResource.cache
+C:\Users\Máté\Desktop\szakdoga\szakdoga\obj\Debug\szakdoga.csproj.CoreCompileInputs.cache
+C:\Users\Máté\Desktop\szakdoga\szakdoga\obj\Debug\szakdoga.csproj.CopyComplete
+C:\Users\Máté\Desktop\szakdoga\szakdoga\obj\Debug\szakdoga.exe
+C:\Users\Máté\Desktop\szakdoga\szakdoga\obj\Debug\szakdoga.pdb
+C:\Users\Máté\Desktop\szakdoga\szakdoga\obj\Debug\szakdoga.languages.eng.resources
+C:\Users\Máté\Desktop\szakdoga\szakdoga\obj\Debug\szakdoga.languages.hun.resources
